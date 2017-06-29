@@ -1,3 +1,3 @@
-#git rm --cached
+# git rm --cached
 
-#git update-index --assume-unchanged [path]
+# git update-index --assume-unchanged [path]
